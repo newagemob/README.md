@@ -1,13 +1,13 @@
-# 🐙 🤿
+# 🐙 🤿 About Me
 
-### making software for working divers 🦯
+#### I make software for working divers 🦯
 
   + CEO of [Melon](melonlab.io)
   + Commercial Diver
   + Radar / Radio Tech
   + Controls Engineer
  
-### Projects
+#### Current Projects
 
   + Melon Lab - Digital log keeping system for offshore / subsea operations
   + Radio Relay - Speech-To-Text for divers, compatible with any dive radio
@@ -15,6 +15,18 @@
   + *Project 40 - In Development*
 
 ###
+
+# 🟣 Resource Wiki 🟣
+
+#### Apps + Packages (for a fresh install)
+
+#### Linux Scripts
+
+#### PowerShell Scripts
+
+#### Reading List
+
+#### Quick Links
 
 ![logo]
 
