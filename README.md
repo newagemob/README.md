@@ -41,8 +41,8 @@
 ### ***Reading List***
 
 ### ***Quick Links***
-[Is M1 Ready?](https://isapplesiliconready.com/for/developer)
-[Decompression Schedule (6)](http://www.usu.edu/scuba/navy_manual6.pdf)
++ [Is M1 Ready?](https://isapplesiliconready.com/for/developer)
++ [Decompression Schedule (6)](http://www.usu.edu/scuba/navy_manual6.pdf)
 
 ![logo]
 
