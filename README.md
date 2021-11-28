@@ -18,15 +18,26 @@
 
 # 🟣 Resource Wiki 🟣
 
-#### Apps + Packages (for a fresh install)
+### ***Apps + Packages (for a fresh install)***
 
-#### Linux Scripts
+### ***Linux Scripts***
 
-#### PowerShell Scripts
+### ***PowerShell Scripts***
+*install sshd server* **Powershell**
+`Add-WindowsCapability -Online -Name OpenSSH.Server*`
++ Install the OpenSSH Client
+`Add-WindowsCapability -Online -Name OpenSSH.Client~~~~0.0.1.0`
++ Install the OpenSSH Server
+`Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0`
+###### Config OpenSSH Server
++ Start the sshd service
+`Start-Service sshd`
+*OPTIONAL but recommended:*
+`Set-Service -Name sshd -StartupType 'Automatic'`
 
-#### Reading List
+### ***Reading List***
 
-#### Quick Links
+### ***Quick Links***
 
 ![logo]
 
