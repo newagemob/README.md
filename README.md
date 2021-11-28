@@ -17,7 +17,10 @@
 ###
 
 # 🟣 Resource Wiki 🟣
-
+@--- Legacy: ---
+# Category
+*description* **package**
+`command`
 ### ***Apps + Packages (for a fresh install)***
 
 ### ***Linux Scripts***
