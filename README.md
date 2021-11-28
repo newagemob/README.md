@@ -20,12 +20,8 @@
 ## --- Legacy: ---
 
 | Category | Description | Package  | Command      |
-----------------------------------------------------
+|----------|-------------|----------|--------------|
 | (# x 3)  | (*italic*)  | **Bold** | `copy+paste` |
-# Category
-*description* **package**
-`command`
-### ***Apps + Packages (for a fresh install)***
 
 ### ***Linux Scripts***
 
