@@ -6,6 +6,23 @@
   + Commercial Diver
   + Radar / Radio Tech
   + Controls Engineer
+
+#### Languages
+![image](https://user-images.githubusercontent.com/82986991/152665219-92c96112-8894-4b68-91d0-3ceb827a4c59.png)
+![image](https://user-images.githubusercontent.com/82986991/152665222-3b2ca688-ffee-482e-b7ea-9b42bce6bd14.png)
+![image](https://user-images.githubusercontent.com/82986991/152665253-c6ca25ce-674b-484f-88f3-6b05142e86cd.png)
+
+
+#### Frameworks
+![image](https://user-images.githubusercontent.com/82986991/152665212-91d5405d-64f7-4042-bb3f-e935243843fe.png)
+![image](https://user-images.githubusercontent.com/82986991/152665198-63096c4e-ae6d-4843-b9cf-74dbabe7398a.png)
+
+
+#### Databases
+![image](https://user-images.githubusercontent.com/82986991/152665233-34837f98-f4c3-4379-a410-1378f3f082a0.png)
+![image](https://user-images.githubusercontent.com/82986991/152665247-f1785f2b-ca1d-4ee3-9849-71ef90d6a6de.png)
+![image](https://user-images.githubusercontent.com/82986991/152665239-c123727c-b1a6-47ab-b721-556f6d3ee938.png)
+
  
 #### Melon Projects
 
