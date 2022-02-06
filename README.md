@@ -2,17 +2,17 @@
 
 #### I make software for working divers 🦯
 
-  + CEO of [Melon](melonlab.io)
+  + Co-Founder of [Melon](https://www.divemelon.com)
   + Commercial Diver
   + Radar / Radio Tech
   + Controls Engineer
  
 #### Current Projects
 
-  + Melon Lab - Digital log keeping system for offshore / subsea operations
+  + DiveOps - Digital log keeping system for offshore / subsea operations
   + Radio Relay - Speech-To-Text for divers, compatible with any dive radio
-  + *Ghostwalker - In Development*
-  + *Project 40 - In Development*
+  + DFAT - Delta Flow Assesment Tool, detecting dangerous delta pressure underwater
+  + WetNet - Subsea mesh network, collecting NDT data and improving awareness with 3D models
 
 ###
 
