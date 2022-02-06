@@ -8,7 +8,6 @@
   + Controls Engineer
 
 #### Languages
-![image](https://user-images.githubusercontent.com/82986991/152665219-92c96112-8894-4b68-91d0-3ceb827a4c59.png)
 ![image](https://user-images.githubusercontent.com/82986991/152665222-3b2ca688-ffee-482e-b7ea-9b42bce6bd14.png)
 ![image](https://user-images.githubusercontent.com/82986991/152665253-c6ca25ce-674b-484f-88f3-6b05142e86cd.png)
 
