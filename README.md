@@ -14,7 +14,7 @@
   + DFAT - Delta Flow Assesment Tool, detecting dangerous delta pressure underwater
   + WetNet - Subsea mesh network, collecting NDT data and improving awareness with 3D models
 
-#### NewAgeMob Projects
+#### Open Source Projects
   + [WikiGrab](https://github.com/newagemob/wikigrab)
   + [NFT Mod](https://github.com/newagemob/nft-mod)
   + [Coinmon](https://github.com/newagemob/coinmon)
