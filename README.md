@@ -8,19 +8,31 @@
   + Controls Engineer
 
 #### Languages
-![image](https://user-images.githubusercontent.com/82986991/152665222-3b2ca688-ffee-482e-b7ea-9b42bce6bd14.png)
-![image](https://user-images.githubusercontent.com/82986991/152665253-c6ca25ce-674b-484f-88f3-6b05142e86cd.png)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 #### Frameworks
-![image](https://user-images.githubusercontent.com/82986991/152665212-91d5405d-64f7-4042-bb3f-e935243843fe.png)
-![image](https://user-images.githubusercontent.com/82986991/152665198-63096c4e-ae6d-4843-b9cf-74dbabe7398a.png)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+#### ML / DL
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 #### Databases
-![image](https://user-images.githubusercontent.com/82986991/152665233-34837f98-f4c3-4379-a410-1378f3f082a0.png)
-![image](https://user-images.githubusercontent.com/82986991/152665247-f1785f2b-ca1d-4ee3-9849-71ef90d6a6de.png)
-![image](https://user-images.githubusercontent.com/82986991/152665239-c123727c-b1a6-47ab-b721-556f6d3ee938.png)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
  
 #### Melon Projects
