@@ -14,10 +14,14 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-#### Frameworks
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+#### Web Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+#### Protocols
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### APIs
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 #### ML / DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -38,8 +42,10 @@
 #### Melon Projects
 
   + DiveOps - Digital log keeping system for offshore / subsea operations
-  + Radio Relay - Speech-To-Text for divers, compatible with any dive radio
+  + Textar - Speech-To-Text for divers, compatible with any dive radio
   + DFAT - Delta Flow Assesment Tool, detecting dangerous delta pressure underwater
+  + Hatbox - Blackbox that sits inside the diver's hat, constantly recording in case of comms failure
+  + 
   + WetNet - Subsea mesh network, collecting NDT data and improving awareness with 3D models
 
 #### Open Source Projects
