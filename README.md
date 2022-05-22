@@ -78,6 +78,9 @@
 *OPTIONAL but recommended:*
 `Set-Service -Name sshd -StartupType 'Automatic'`
 
+### ***WGET PDF Files to current directory***
+```wget --no-directories --content-disposition -e robots=off -A.pdf -r ${PDF URL}```
+
 ### ***Reading List***
 
 ### ***Quick Links***
