@@ -2,7 +2,7 @@
 
 #### I make software for working divers 🦯
 
-  + Co-Founder of [Melon](https://www.divemelon.com)
+  + Co-Founder of [Melon](https://www.divemelon.com) ***[![Netlify Status](https://api.netlify.com/api/v1/badges/f4212dfa-ae6c-4a1e-8c51-870d4e0a22e8/deploy-status)](https://app.netlify.com/sites/lucid-swanson-ec70e2/deploys)***
   + Commercial Diver
   + Radar / Radio Tech
   + Controls Engineer
