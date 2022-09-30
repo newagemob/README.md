@@ -2,7 +2,7 @@
 
 #### I make software for working divers 🦯
 
-  + Co-Founder of [Melon](https://www.divemelon.com)
+  + Founder of [Melon](https://www.divemelon.com)
   + Commercial Diver
   + Radar / Radio Tech
   + Controls Engineer
