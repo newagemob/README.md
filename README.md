@@ -2,19 +2,18 @@
 
 #### I make software for working divers 🦯
 
-  + Founder of [Melon](https://www.divemelon.com)
-  + Commercial Diver
+  + Founder of [Melon](https://www.divemelon.com) and [Liquid](https://www.liquid.cards)
   + Radar / Radio Tech
   + Controls Engineer
+  + Commercial Diver
 
 
 #### Melon Projects
 
-  + DiveOps - Digital log keeping system for offshore / subsea operations
-  + Textar - Speech-To-Text for divers, compatible with any dive radio
-  + DFAT - Delta Flow Assesment Tool, detecting dangerous delta pressure underwater
+  + DiveOps - Digital log keeping system for NDT and Diving operations
+  + Metatron - Speech-To-Text Industry-Specific Models (Divers, Pilots, Surgeons etc.)
+  + PetLoc - Petroleum Leak Locator + Delta Pressure Alert System
   + Hatbox - Blackbox that sits inside the diver's hat, constantly recording in case of comms failure
-  + 
   + WetNet - Subsea mesh network, collecting NDT data and improving awareness with 3D models
 
 #### Open Source Projects
