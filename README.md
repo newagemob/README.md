@@ -10,7 +10,7 @@
 
 #### Melon Projects
 
-  + DiveOps - Digital log keeping system for NDT and Diving operations
+  + Log Book - Digital log keeping system for NDT and Diving operations
   + Metatron - Speech-To-Text Industry-Specific Models (Divers, Pilots, Surgeons etc.)
   + PetLoc - Petroleum Leak Locator + Delta Pressure Alert System
   + Hatbox - Blackbox that sits inside the diver's hat, constantly recording in case of comms failure
