@@ -11,7 +11,7 @@
 ### Melon Projects
 
   + Log Book - Digital log keeping system for NDT and Diving operations - for iOS and Web
-  + Metatron - Speech-To-Text Industry-Specific Models (Divers, Pilots, Surgeons etc.)
+  + Metatron - Speech-To-Text Industry-Specific Models (Divers, Pilots, Emergency Response etc.)
   + PetLoc - Petroleum Leak Locator + Delta Pressure Alert System
   + Hatbox - Blackbox that sits inside the diver's hat, constantly recording in case of comms failure
   + WetNet - Subsea mesh network, collecting NDT data and improving awareness with 3D models
