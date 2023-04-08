@@ -5,7 +5,7 @@
  ---
  
   + AI Researcher
-  + System Administrator
+  + Fullstack Engineer
   + Radar / Radio Technician
   + Controls Engineer
   + Commercial Diver
