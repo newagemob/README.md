@@ -1,7 +1,7 @@
 ### 🐋 I make safety technology & software I can use
 
  ---
- [Melon](https://www.divemelon.com) | [Liquid](https://www.liquid.cards) | [MidJournal](https://midjournal-three.vercel.app) | [Pottet Plant Development](https://pottedplant.vercel.app)
+ [IntraCav](https://www.intracav.ai) | [Melon](https://www.divemelon.com) | [Liquid](https://www.liquid.cards)
  ---
  
   + AI Researcher
