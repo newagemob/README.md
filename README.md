@@ -1,7 +1,7 @@
 ### 🐋 I make safety technology & software I can use
 
  ---
- [Intracav](https://www.intracav.ai) | [Melon](https://www.divemelon.com) | [Liquid](https://www.liquid.cards)
+ [Intracav](https://www.intracav.ai) | [Melon](https://www.divemelon.com)
  ---
  
   + AI Researcher
